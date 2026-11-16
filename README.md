@@ -13,6 +13,8 @@ of the game exists and is unique, and it is computed efficiently online.
 This repository contains the code of the paper
 
 > A. Bemporad and T. Tatarenko, "Learning monotone game-theoretic linear MPC", 2026.
+> [arXiv 2611.17504](https://arxiv.org/abs/2611.17504), 2026.
+
 
 ## Method
 

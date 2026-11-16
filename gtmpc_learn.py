@@ -38,7 +38,7 @@ weights; optionally (force_stability=True), closed-loop stability of the
 unconstrained Nash equilibrium feedback is enforced by a penalty with a
 jointly learned quadratic Lyapunov function.
 
-Reference: A. Bemporad and T. Tatarenko, "Learning monotone game-theoretic linear MPC", 2026.
+Reference: A. Bemporad and T. Tatarenko, "Learning monotone game-theoretic linear MPC", arXiv 2611.17504, 2026.
 """
 
 import numpy as np

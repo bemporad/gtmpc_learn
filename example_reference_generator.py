@@ -22,7 +22,8 @@ tracking r_des, and the agents tracking the references r(k) of the generator, wi
 
 Requirements: numpy, scipy, matplotlib, jax, jax-sysid, nashopt.
 
-Reference: A. Bemporad and T. Tatarenko, "Learning monotone game-theoretic linear MPC", 2026.
+Reference: A. Bemporad and T. Tatarenko, "Learning monotone game-theoretic linear MPC", arXiv 2611.17504, 2026.
+
 """
 
 import shutil

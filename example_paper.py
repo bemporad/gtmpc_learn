@@ -15,7 +15,7 @@ produced by example_reference_generator.py).
 
 Requirements: numpy, scipy, matplotlib, jax, jax-sysid, nashopt.
 
-Reference: A. Bemporad and T. Tatarenko, "Learning monotone game-theoretic linear MPC", 2026.
+Reference: A. Bemporad and T. Tatarenko, "Learning monotone game-theoretic linear MPC", arXiv 2611.17504, 2026.
 """
 
 import sys
